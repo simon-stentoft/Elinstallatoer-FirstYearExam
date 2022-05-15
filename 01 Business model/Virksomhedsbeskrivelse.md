@@ -15,22 +15,22 @@ Vi har i forbindelse med udviklingen af vores forretningsmodel, benyttet et busi
 
 Et business model canvas (BMC) består af følgende: 
 ### Partnere
+I partner delen forklarer vi hvilke forskellige partnere arbejder vi sammen med i vores virksomhed. Dette kan være i forbindelse med for eksempel markedsføring, produktion eller andet. Vi har i vores tilfælde kun en partner, hvilket er el-intallatørerne fra Zealand, som også er vores kunde. Vi betragter dem som partner selvom de også er kunde, fordi de bidrager med viden omkring deres branche som er nødvendig for at vi kan udvikle en vel fungerende app.
 
+### Aktiviteter (Key Activities)
+Aktivitet delen handler om hvilke kerneopgaver vi som virksomhed kan løse. Vores virksomhed er specialiseret i at udvikle apps til Android, ved brug af Java. Og i dette tilfælde udvikler vi en app, der er rettet i mod virksomheder som ansætter el-installatører. 
 
-### Aktiviteter
+### Ressourcer (Key Resources)
+Key resources handler om hvilke ressourcer vores virksomhed har til rådighed. For eksempel kan dette være økonomiske ressourcer, fysiske eller hvor mange ansatte vi har. I vores virksomhed har vi 3 mand til rådighed, og vi deler arbejdet så lige som det er muligt. Økonomisk vis, så arbejder vi hjemmefra og gratis. Vores fysiske ressourcer er vores allerede betalt for hjemme computere vi arbejder fra. Vi benytter os også af gratis software som Android Studio til udviklingen af vores app.
 
+### Kundeværdi (Value Propositions)
+Kundeværdi handler om den ydelse vi sælger, og hvilken værdi det kan give vores kunder. Vi sælger vores viden i programmering, softwareudvikling og tid, og dermed kan vi løse vores kunders behov. I dette tilfælde ligger værdien i at vi kan erstatte el-installatørens papir-form skema med vores android app. 
 
-### Ressourcer
+### Kunderelation (Customer Relationships)
+Kunderelation handler om hvordan vi kan stå til rådighed for vores kunder. Vi vil sørge for at holde en tæt kundekontakt med ugelige møder, og hvis det er nødvendigt med kontakt over mail under appens udviklingsprocess. Derudover kan vi også stå til rådighed efter vi har overleveret appen, for at enten rette fejl i appen, eller måske tilføje nye egenskaber og funktionaliteter. 
 
-
-### Kundeværdi
-
-
-### Kunderelation
-
-
-### Kanaler
-
+### Kanaler (Channels)
+Hvordan forhandler vi med kunderne. 
 
 ### Omkostninger
 
