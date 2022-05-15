@@ -30,10 +30,23 @@ Kundeværdi handler om den ydelse vi sælger, og hvilken værdi det kan give vor
 Kunderelation handler om hvordan vi kan stå til rådighed for vores kunder. Vi vil sørge for at holde en tæt kundekontakt med ugelige møder, og hvis det er nødvendigt med kontakt over mail under appens udviklingsprocess. Derudover kan vi også stå til rådighed efter vi har overleveret appen, for at enten rette fejl i appen, eller måske tilføje nye egenskaber og funktionaliteter. 
 
 ### Kanaler (Channels)
-Hvordan forhandler vi med kunderne. 
+(Handels)kanaler beskriver hvordan vi forhandler med kunderne. Vi har tænkt os at kontakte forskellige firmaer med el-installatører ansat, og demonstrere vores idé og app, enten fysisk eller eventuelt et online møde. At opsøge potentielle kunder er en nem måde at skaffe kunder på, når ens firma og produkt ikke har noget omdømme i forvejen.
 
-### Omkostninger
+### Kunder (Customer)
+Vores nuværende kunde er Zealand, hvor vi specifikt arbejder med el-installatørerne på Zealand. Fremtidige kunder vil være firmaer der har ansat el-installatører.
 
+### Omkostninger (Cost structure)
+Her identificere vi hvilke omkostninger vi vil få. På nuværende tidspunkt har vi ingen omkostninger andet end vores tid. Men på sigt vil der eventuelt opstå omkostninger ved leje eller køb af kontorlokaler hvis vi beslutter os for, at vi ikke vil arbejde hjemmefra. Der vil også være omkostninger i form af løn, køb af software til udviklingen af vores produkter, forskelligt materiale til kontoret og computer hardware.
+
+### Indtægter (Revenue streams)
+Her identificere vi hvordan vi har tænkt os at tjene på vores produkt. Appen vi laver til el-installatørerne på Zealand laver vi gratis, men på sigt vil vi gerne bruge appen vi udvikler til Zealand som et standard produkt, vi kan ændre på og tilpasse så vi appen kan sælges til andre virksomheder der ansætter el-installatører. Dette salg kunne eventuelt laves som et direkte køb, hvor at kunden overtager appens drift og alt andet, eller kunden kunne hyre os til at tilpasse appen og holde den kørende.
 
 ### Finansiering
 For at få styr på vores finansiering, har vi lavet et investeringsbudget. 
+
+### Strategi for implementering og skalering af virksomheden til andre kundesegmenter
+## Implementering
+
+
+## Skalering
+
